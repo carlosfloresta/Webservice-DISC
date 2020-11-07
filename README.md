@@ -22,9 +22,9 @@ replace "your site" with your domain
 
 ## Usage
 
-```bash
+
 To use this project, first proceed to the repository [APP-DISC](https://github.com/carlosfloresta/APP-DISC), and follow the instructions
-```
+
 
 
 ## License
