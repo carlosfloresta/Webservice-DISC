@@ -10,4 +10,4 @@ $c =  filter_input(INPUT_GET, 'c', FILTER_SANITIZE_STRING);
 
 
 
-<img style="width:100%" src="https://avaliacaodisc.com/funcoes/grafico.php?d=<?php echo $d ?>&i=<?php echo $i ?>&s=<?php echo $s ?>&c=<?php echo $c ?>">
+<img style="width:100%" src="https://your site/funcoes/grafico.php?d=<?php echo $d ?>&i=<?php echo $i ?>&s=<?php echo $s ?>&c=<?php echo $c ?>">
